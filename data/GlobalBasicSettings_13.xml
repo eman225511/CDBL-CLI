@@ -1,0 +1,92 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+  <External>null</External>
+  <External>nil</External>
+  <Item class="UserGameSettings" referent="RBX6EB8BE6A7C8F405986E3080372EC4892">
+    <Properties>
+      <bool name="AllTutorialsDisabled">false</bool>
+      <BinaryString name="AttributesSerialize">
+      </BinaryString>
+      <token name="CameraMode">0</token>
+      <bool name="CameraYInverted">false</bool>
+      <SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+      <bool name="ChatTranslationEnabled">true</bool>
+      <bool name="ChatTranslationFTUXShown">true</bool>
+      <string name="ChatTranslationLocale">en_us</string>
+      <bool name="ChatTranslationToggleEnabled">false</bool>
+      <bool name="ChatVisible">true</bool>
+      <string name="CompletedTutorials">
+      </string>
+      <bool name="ComputerCameraMovementChanged">false</bool>
+      <token name="ComputerCameraMovementMode">0</token>
+      <bool name="ComputerMovementChanged">false</bool>
+      <token name="ComputerMovementMode">0</token>
+      <token name="ControlMode">0</token>
+      <string name="DefaultCameraID">{DefaultDeviceGuid}</string>
+      <bool name="DefinesCapabilities">false</bool>
+      <int name="FramerateCap">9999999</int>
+      <bool name="Fullscreen">false</bool>
+      <float name="GamepadCameraSensitivity">1</float>
+      <token name="GraphicsOptimizationMode">1</token>
+      <int name="GraphicsQualityLevel">3</int>
+      <float name="HapticStrength">1</float>
+      <bool name="HasEverUsedVR">false</bool>
+      <float name="MasterVolume">0.1</float>
+      <float name="MasterVolumeStudio">1</float>
+      <bool name="MaxQualityEnabled">false</bool>
+      <bool name="MicroProfilerWebServerEnabled">false</bool>
+      <float name="MouseSensitivity">1</float>
+      <Vector2 name="MouseSensitivityFirstPerson">
+        <X>1</X>
+        <Y>1</Y>
+      </Vector2>
+      <Vector2 name="MouseSensitivityThirdPerson">
+        <X>1</X>
+        <Y>1</Y>
+      </Vector2>
+      <string name="Name">GameSettings</string>
+      <bool name="OnScreenProfilerEnabled">false</bool>
+      <float name="PartyVoiceVolume">1</float>
+      <bool name="PerformanceStatsVisible">false</bool>
+      <float name="PlayerHeight">5.70000029</float>
+      <token name="PreferredTextSize">1</token>
+      <float name="PreferredTransparency">1</float>
+      <int name="QualityResetLevel">0</int>
+      <int name="RCCProfilerRecordFrameRate">0</int>
+      <int name="RCCProfilerRecordTimeFrame">0</int>
+      <bool name="ReducedMotion">false</bool>
+      <token name="SavedQualityLevel">3</token>
+      <int64 name="SourceAssetId">-1</int64>
+      <bool name="StartMaximized">true</bool>
+      <Vector2 name="StartScreenPosition">
+        <X>-8</X>
+        <Y>-8</Y>
+      </Vector2>
+      <Vector2 name="StartScreenSize">
+        <X>1936</X>
+        <Y>1048</Y>
+      </Vector2>
+      <BinaryString name="Tags">
+      </BinaryString>
+      <bool name="TouchCameraMovementChanged">false</bool>
+      <token name="TouchCameraMovementMode">0</token>
+      <bool name="TouchMovementChanged">false</bool>
+      <token name="TouchMovementMode">0</token>
+      <bool name="UiNavigationKeyBindEnabled">true</bool>
+      <bool name="UsedCoreGuiIsVisibleToggle">false</bool>
+      <bool name="UsedCustomGuiIsVisibleToggle">false</bool>
+      <bool name="UsedHideHudShortcut">false</bool>
+      <token name="VRComfortSetting">1</token>
+      <bool name="VREnabled">true</bool>
+      <int name="VRRotationIntensity">1</int>
+      <token name="VRSafetyBubbleMode">0</token>
+      <bool name="VRSmoothRotationEnabled">false</bool>
+      <bool name="VRSmoothRotationEnabledCustomOption">false</bool>
+      <bool name="VRThirdPersonFollowCamEnabled">true</bool>
+      <bool name="VRThirdPersonFollowCamEnabledCustomOption">true</bool>
+      <bool name="VignetteEnabled">true</bool>
+      <bool name="VignetteEnabledCustomOption">true</bool>
+      <string name="gaID">
+      </string>
+    </Properties>
+  </Item>
+</roblox>
